@@ -32,5 +32,3 @@
 <p align="left">
 <a href="www.linkedin.com/in/knmukaffa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="knmukaffa" height="30" width="40" /></a>
 </p>
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=knmukaffa&label=Profile%20views&color=0e75b6&style=flat" alt="knmukaffa" /> </p>
